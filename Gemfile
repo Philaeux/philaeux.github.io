@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem "jekyll", "~> 3.8.5"
+gem 'kramdown'
+gem 'jekyll-watch'
+gem 'rouge'

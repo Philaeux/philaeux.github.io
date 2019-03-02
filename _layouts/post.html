@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+     <h1 class="post-title">{{ page.title }}</h1>
+     <p class="post-meta">
+         <i class="fa fa-calendar-o"></i>
+            {% assign m = page.date | date: "%-m" %}
+            {{ page.date | date: "%-d" }}
+            {% case m %}
+              {% when '1' %}Janvier
+              {% when '2' %}Février
+              {% when '3' %}Mars
+              {% when '4' %}Avril
+              {% when '5' %}Mai
+              {% when '6' %}Juin
+              {% when '7' %}Juillet
+              {% when '8' %}Août
+              {% when '9' %}Septembre
+              {% when '10' %}Octobre
+              {% when '11' %}Novembre
+              {% when '12' %}Décembre
+            {% endcase %}
+            {{ page.date | date: "%Y" }}
+         {% if page.author %} • <i class="fa fa-user"></i> {{ page.author }}{% endif %}
+         {% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  </header>
+
+    {% include prev_next_post.html %}
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+    {% if site.google_analytics %}
+        {% include google_analytics.html %}
+    {% endif %}
+
+    {% if site.disqus_shortname %}
+       {% include disqus.html %}
+    {% endif %}
+
+  <div class="post-up" align="center">
+  	<a href="#">
+  	<i class="fa fa-angle-up fa-2x"></i>
+  	</a>
+  </div>
+
+</div>
