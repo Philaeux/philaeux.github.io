@@ -12,5 +12,5 @@ finished: true
 
 | Période | 1er | 2nd | 3e | 4e | 5e |
 |-------|--------|---------|
-| Mars 2019 | lunatikhmm (438) | marsudota (133) | sohizi (95) | kmembert_dota2 (79) | xoannz (72) |
-| Février 2019 | lunatikhmm (350) | marsudota (217) | swendota (133) | cocodelyon (82) | cocozhu (77) |
+| Mars 2019 | lunatikhmm (350) | marsudota (217) | swendota (133) | cocodelyon (82) | cocozhu (77) |
+| Février 2019 | lunatikhmm (438) | marsudota (133) | sohizi (95) | kmembert_dota2 (79) | xoannz (72) |
