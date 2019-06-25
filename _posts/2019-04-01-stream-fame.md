@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Stream Bets - Hall of Fame
-description: "Classement des viewers au fur et à mesure des saisons de bets."
+description: Hall of Fame of bets done on stream.
 author: Philaeux
 category: stream
 tags: twitch
-finished: true
 ---
 
 ## Hall of Fame

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DPC Rankings 23rd
-description: "Analysis of DPC ranking updated daily"
+description: Analysis of DPC ranking updated daily, 23rd report.
 author: Philaeux
 category: dota
 tags: dpc computing analysis
