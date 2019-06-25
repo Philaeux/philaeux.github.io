@@ -84,19 +84,19 @@ Top 12 secured outcomes
 | ---- | ---- | ---- |
 | Alliance | 552448 | 13.17% |
 | EHOME | 86016 | 2.05% |
-| Evil Geniuses | 4194304 | 100% |
-| Fnatic | 4194304 | 100% |
+| **Evil Geniuses** | 4194304 | 100% |
+| **Fnatic** | 4194304 | 100% |
 | Forward Gaming | 369664 | 8.81% |
 | Gambit Esports | 2493184 | 59.44% |
 | Infamous | 376832 | 8.98% |
 | Keen Gaming | 3944448 | 94.04% |
-| Ninjas In Pyjamas | 4194304 | 100% |
+| **Ninjas In Pyjamas** | 4194304 | 100% |
 | OG | 3135488 | 74.76% |
-| PSG.LGD | 4194304 | 100% |
+| **PSG.LGD** | 4194304 | 100% |
 | Pain Gaming | 423936 | 10.11% |
 | Royal Never Give Up | 2197504 | 52.39% |
 | TNC Predator | 3197696 | 76.24% |
-| Team Liquid | 4194304 | 100% |
-| Team Secret | 4194304 | 100% |
-| Vici Gaming | 4194304 | 100% |
-| Virtus.Pro | 4194304 | 100% |
+| **Team Liquid** | 4194304 | 100% |
+| **Team Secret** | 4194304 | 100% |
+| **Vici Gaming** | 4194304 | 100% |
+| **Virtus.Pro** | 4194304 | 100% |
