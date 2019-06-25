@@ -9,8 +9,30 @@ tags: dpc computing analysis
 
 Day in progress: Alliance vs Infamous => EG vs OG => VG vs TNC
 
+| Rank | Team | Day2 | Day1 | Before |
+|-------|--------|---------|---------|---------|
+| 1 | **Team Secret** | 14400 | 14400 | 14250 | 
+| 2 | **Virtus.pro** | 12300 | 12300 | 11400 | 
+| 4 | **Vici Gaming** | 7200 | 6450 | 6300 | 
+| 3 | **Evil Geniuses** | 6825 | 6825 | 6750 | 
+| 5 | **Team Liquid** | 4920 | 4920 | 2820 | 
+| 6 | **PSG.LGD** | 4290 | 4290 | 4140 | 
+| 7 | **Fnatic**² | 3600 | 3600 | 3525 | 
+| 8 | **Ninjas In Pyjamas** | 2620 | 2620 | 2590 | 
+| 9 | **TNC Predator** | 1596 | 846 | 696 | 
+| 10 | Keen Gaming² | 1140 | 1140 | 1140 | 
+| 11 | OG | 1023 | 1023 | 948 | 
+| 12 | EHOME² | 629.6 | 629.6 | 629.6 | 
+| 13 | Alliance | 454 | 454 | 379 | 
+| 14 | Gambit Esports | 378 | 378 | 228 | 
+| 15 | Forward Gaming | 304.88 | 304.88 | 154.88 | 
+| 16 | ~~Pain Gaming~~ | 225 | 225 | 150 | 
+| 17 | Royal Never Give Up | 204 | 204 | 63.65 | 
+| 18 | Infamous | 135.9 | 135.9 | 60.9 | 
 
-32768 outcomes remaining.
+²: not playing in the tournament or eliminated, points won't change.
+
+32768 outcomes remaining, distributing team on the DPC spectrum like this:
 
 | Team | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -33,7 +55,7 @@ Day in progress: Alliance vs Infamous => EG vs OG => VG vs TNC
 | Vici Gaming | 0 | 0 | 25952 | 5760 | 1056 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Virtus.Pro | 2048 | 30720 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-Percentage
+In percentage of scenarios:
 
 | Team | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
