@@ -211,11 +211,11 @@
   }
 
   .post-paging .left {
-      margin-left: -440px;
+      margin-left: -700px;
   }
 
   .post-paging .right {
-      margin-left: 410px;
+      margin-left: 700px;
   }
 
   .post-up a {
@@ -225,3 +225,11 @@
   .post-up a:hover{
     opacity: 0.8;
   }
+
+th {
+text-align: center;
+}
+
+td strong {
+font-weight: bold;
+}
