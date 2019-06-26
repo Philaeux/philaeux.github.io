@@ -7,7 +7,7 @@ category: dota
 tags: dpc computing analysis
 ---
 
-Day3 in progress: OG vs EG
+Day3 in progress: Secret vs OG => RNG vs Alliance => Gambit vs NIP
 
 | Rank | Team | Day3 |  Day2 | Day1 | Before |
 |-------|--------|---------|---------|---------|---------|
