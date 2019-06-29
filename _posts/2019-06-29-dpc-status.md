@@ -9,25 +9,25 @@ tags: dpc computing analysis
 
 For the following days, I will only display the probability of teams to be in certain spot, in case of TI seeding.
 
-8 outcomes possible.
+4 outcomes possible.
 
-| Team | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Evil Geniuses | 0 | 0 | 0 | 75 | 25 | 0 | 0 | 0 | 0 |
-| Fnatic | 0 | 0 | 0 | 0 | 0 | 0 | 75 | 25 | 0 |
-| Ninjas In Pyjamas | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 50 | 50 |
-| PSG.LGD | 0 | 0 | 0 | 0 | 37.50 | 62.50 | 0 | 0 | 0 |
-| TNC Predator | 0 | 0 | 0 | 0 | 12.50 | 0 | 12.50 | 25 | 50 |
-| Team Liquid | 0 | 0 | 0 | 25 | 25 | 37.50 | 12.50 | 0 | 0 |
-| Team Secret | 87.50 | 12.50 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Vici Gaming | 0 | 0 | 100 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Virtus.Pro | 12.50 | 87.50 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Team | 1 | 2 | 3 | 4 | 5 | 6 | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| Evil Geniuses | 0 | 0 | 0 | 75 | 25 | 0 |
+| PSG.LGD | 0 | 0 | 0 | 0 | 50 | 50 |
+| Team Liquid | 0 | 0 | 0 | 25 | 25 | 50 |
+| Team Secret | 75 | 25 | 0 | 0 | 0 | 0 |
+| Vici Gaming | 0 | 0 | 100 | 0 | 0 | 0 |
+| Virtus.Pro | 25 | 75 | 0 | 0 | 0 | 0 |
  
 Definitive positions
 
 | Position | Team |
 | ---- | ---- |
 | 3 | Vici Gaming |
+| 7 | Fnatic |
+| 8 | Ninjas In Pyjamas |
+| 9 | TNC Predator |
 | 10 | OG |
 | 11 | Alliance |
 | 12 | Keen Gaming |
@@ -45,8 +45,8 @@ If we assume a classic seeding into 2 groups we get this group composition (but 
 | #1 | #2|
 | #4 | Vici Gaming |
 | #5 | #6 |
-| #8 | #7 |
-| #9 | OG |
+| Ninjas In Pyjamas | Fnatic |
+| TNC Predator | OG |
 | Keen Gaming | Alliance |
 | #Qualifier | #Qualifier |
 | #Qualifier | #Qualifier |
