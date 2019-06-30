@@ -14,8 +14,8 @@ Definitive positions with DPC (finale remaining)
 | 1 | Team Secret |
 | 2 | Virtus Pro |
 | 3 | Vici Gaming |
-| 4 | Evil Geniuses or Team Liquid |
-| 5 | Evil Geniuses or Team Liquid |
+| 4 | Evil Geniuses |
+| 5 | Team Liquid |
 | 6 | PSG.LGD |
 | 7 | Fnatic |
 | 8 | Ninjas In Pyjamas |
@@ -35,8 +35,8 @@ If we assume a classic seeding into 2 groups we get this group composition (but 
 | Group A | Group B | 
 | ---- | ---- |
 | Team Secret | Virtus Pro |
-| Evil Geniuses or Team Liquid | Vici Gaming |
-| Evil Geniuses or Team Liquid | PSG.LGD |
+| Evil Geniuses | Vici Gaming |
+| Team Liquid | PSG.LGD |
 | Ninjas In Pyjamas | Fnatic |
 | TNC Predator | OG |
 | Keen Gaming | Alliance |
