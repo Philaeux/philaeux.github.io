@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DPC Rankings 30th
+title: DPC Rankings Last Major 2019
 description: Analysis of DPC ranking updated daily, merged report
 author: Philaeux
 category: dota
