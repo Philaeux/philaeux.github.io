@@ -11,6 +11,7 @@ tags: twitch
 
 | Période | 1er | 2nd | 3e | 4e | 5e |
 |-------|--------|---------|
+| Janvier 2020 | lunatikhmm (1022) | teenage_dirt (674) | v4isse4u_m4m4n (181) | kender__ (105) | canardcoco (63) |
 | Aout 2019 | iziigan (856) | nahy08 (644) | jaco_os (161) | cebricebri (128) | squallsouled (59) |
 | Juillet 2019 | jaco_os (48) | v4isse4u_m4m4n (47) | random_peanuts (37) | marsu_marsu (27) | profchen (23) |
 | Juin 2019 | iziigan (174) | swendota (97) | nyalvis_babel (77) | mazappe (67) | elektik1 (54) |
