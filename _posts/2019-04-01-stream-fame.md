@@ -11,6 +11,7 @@ tags: twitch
 
 | Période | 1er | 2nd | 3e | 4e | 5e |
 |-------|--------|---------|
+| Février 2020 | xenocrows (3388) | iziigan (1899) | kender__ (222) | wadges (215) | guiguioh (115) |
 | Janvier 2020 | lunatikhmm (1022) | teenage_dirt (674) | v4isse4u_m4m4n (181) | kender__ (105) | canardcoco (63) |
 | Aout 2019 | iziigan (856) | nahy08 (644) | jaco_os (161) | cebricebri (128) | squallsouled (59) |
 | Juillet 2019 | jaco_os (48) | v4isse4u_m4m4n (47) | random_peanuts (37) | marsu_marsu (27) | profchen (23) |
