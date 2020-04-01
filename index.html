@@ -1,43 +1,40 @@
 ---
-layout: main
+layout: default
+title: Philaeux - Index
 ---
 
-<div class="home">
-    <div class="logo-header">
-        <br />
-        <h1 class="post-title">Index</h1>
-    </div>
-
-  <ul class="post-list">
+<ul class="post-list">
     {% for post in site.posts %}
-    <li>
-        <div>
-        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
-            <span class="post-date">
-                {% assign m = post.date | date: "%-m" %}
-                {{ post.date | date: "%-d" }}
-                {% case m %}
-                  {% when '1' %}January
-                  {% when '2' %}February
-                  {% when '3' %}March
-                  {% when '4' %}April
-                  {% when '5' %}May
-                  {% when '6' %}June
-                  {% when '7' %}July
-                  {% when '8' %}August
-                  {% when '9' %}September
-                  {% when '10' %}October
-                  {% when '11' %}November
-                  {% when '12' %}December
-                {% endcase %}
-                {{ post.date | date: "%Y" }}
-            </span>
-        </div>
-    </li>
-    {% endfor %}
-  </ul>
+        <li>
+            <div class="post-title-date">
+                <div class="post-list-title">
+                    <a class="post-link" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                </div>
 
-    <div class="footer center">
-        Vincent <a href="https://twitter.com/philaeux">'Philaeux'</a> Lamotte
-    </div>
-</div>
+                <div class="post-list-date">
+                    {% assign m = post.date | date: "%-m" %}
+                    {{ post.date | date: "%-d" }}
+                    {% case m %}
+                      {% when '1' %}Janvier
+                      {% when '2' %}Février
+                      {% when '3' %}Mars
+                      {% when '4' %}Avril
+                      {% when '5' %}Mai
+                      {% when '6' %}Juin
+                      {% when '7' %}Juillet
+                      {% when '8' %}Août
+                      {% when '9' %}Septembre
+                      {% when '10' %}Octobre
+                      {% when '11' %}Novembre
+                      {% when '12' %}Décembre
+                    {% endcase %}
+                    {{ post.date | date: "%Y" }}
+                </div>
+            </div>
+
+            <div class="post-description">
+                <p>{{ post.description }}</p>
+            </div>
+        </li>
+    {% endfor %}
+</ul>
