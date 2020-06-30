@@ -5,6 +5,7 @@ title: Stream Hall of Fame
 
 | Période | 1er | 2e | 3e |
 |-------|--------|---------|
+| Juin 2020 | iziigan (47) | xoannz (46) | sohizi (14) | calfhead (12) | konekoninja (1) |
 | Avril & Mai 2020 | nahy08 (11089) | katebeckett (5000) | xenocrows (2145) | nouveaufr (1676) | gemin1_ (343) |
 | Mars 2020 | nahy08 (3822) | c0c0delyon (478) | iziigan (258) | 
 | Février 2020 | xenocrows (3388) | iziigan (1899) | kender__ (222) | 
