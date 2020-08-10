@@ -1,10 +1,9 @@
 ---
 layout: post
-title: List of all available sounds in stream
+title: Sounds available in stream
 ---
-
+Use the shortname to start a sound  
 ah = Denis Brognard  
-
 volette = Kaamelott  
 c'est la guerre = Kaamelott  
 joie de vivre = Kaamelott  
