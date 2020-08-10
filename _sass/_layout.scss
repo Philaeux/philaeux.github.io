@@ -226,14 +226,19 @@
     opacity: 0.8;
   }
 
-th {
-text-align: center;
-}
+  th {
+    text-align: center;
+  }
 
-td strong {
-font-weight: bold;
-}
+  td strong {
+    font-weight: bold;
+  }
 
-.post-content td {
-text-align: left;
-}
+  .post-content td {
+    text-align: left;
+  }
+  
+  .post-content table {
+	min-width: 80%
+  }
+
