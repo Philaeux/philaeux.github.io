@@ -146,6 +146,7 @@ footer a, footer a:visited {
 }
 
 .post-content h3 {
+    margin-top: 0.7em;
     margin-bottom: 0.7em;
     text-align: center;
     color: #A80000;
@@ -186,4 +187,9 @@ footer a, footer a:visited {
 
 .post-content td {
     text-align: right;
+}
+
+ul {
+    padding-left: 80px;
+    padding-right: 80px;
 }
