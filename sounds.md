@@ -4,6 +4,8 @@ title: Sounds available in Stream
 ---
 Use the shortname to start a sound, as a message of the "Play Sound" reward.  
 
+  
+
    *Various*  
 ah -> Denis Brognard  
 AYAYA  
@@ -88,7 +90,7 @@ que se passe -> Mais que se passe-t-il?
    *300*  
 this is sparta  
 
-   *Gladiator*
+   *Gladiator*  
 entertained -> Are you not entertained  
 maximus -> I am Maximus Decimus...  
 
