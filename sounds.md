@@ -36,13 +36,13 @@ wololo
 
 ---
 
-   *Dota*  
-ding ding -> Ding ding ding motherfucker    
-jugger bitch -> I am the Juggernaut bitch  
-kotl cast -> You shall not cast   
-lakad -> LAKAD MATATAG NORMALIN NORMALI  
-lion hell -> I have been to hell and back...  
-meep merp  
+Dota  
+* ding ding -> Ding ding ding motherfucker    
+* jugger bitch -> I am the Juggernaut bitch  
+* kotl cast -> You shall not cast   
+* lakad -> LAKAD MATATAG NORMALIN NORMALIN  
+* lion hell -> I have been to hell and back...  
+* meep merp  
 
 ---
 
@@ -51,10 +51,11 @@ pass -> You shall not pass
 
 ---
 
-   *South Park*  
-donne -> Tu veux qu'on se la donne  
-I member  
-mongols -> Tirez vous connard de mongols...  
+### South Park  
+
+* donne -> Tu veux qu'on se la donne  
+* I member  
+* mongols -> Tirez vous connard de mongols...  
 
 ---
 
@@ -85,6 +86,7 @@ merde -> C'est de la merde
 joie de vivre -> La joie de vivre et le jambon  
 pute -> En garde espèce de vieille pute dégarnie  
 reposer -> Kaamelott  
+revolte -> Bon ben revolte?... REVOLTE!  
 volette -> Mon petit oiseau a pris sa volée...  
 
 ---
