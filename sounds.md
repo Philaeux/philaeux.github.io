@@ -3,8 +3,9 @@ layout: post
 title: Sounds available in Stream
 ---
 Use the shortname to start a sound, as a message of the "Play Sound" reward.  
-</br>  
-</br>  
+
+---
+  
    *Various*  
 ah -> Denis Brognard  
 AYAYA  
@@ -33,6 +34,7 @@ steam chat
 tutturu  
 wololo  
 
+---
 
    *Dota*  
 ding ding -> Ding ding ding motherfucker    
@@ -42,16 +44,19 @@ lakad -> LAKAD MATATAG NORMALIN NORMALI
 lion hell -> I have been to hell and back...  
 meep merp  
 
+---
 
    *The Lord of the Rings*  
 pass -> You shall not pass  
 
+---
 
    *South Park*  
 donne -> Tu veux qu'on se la donne  
 I member  
 mongols -> Tirez vous connard de mongols...  
 
+---
 
    *Star Wars*  
 anakin -> It's over Anakin, I have the highground  
@@ -62,6 +67,7 @@ noo -> Darth Vador NOOOOO
 order 66 -> Execute order 66  
 senate -> I am the Senate  
 
+---
 
    *Kaamelott*  
 c'est la guerre -> Arthour c'est la guerre  
@@ -81,17 +87,24 @@ pute -> En garde espèce de vieille pute dégarnie
 reposer -> Kaamelott  
 volette -> Mon petit oiseau a pris sa volée...  
 
+---
 
    *Les Inconnus*  
 chasseur -> Le mauvais chasseur, il voit un truc  
 que se passe -> Mais que se passe-t-il?  
 
+---
+
    *300*  
 this is sparta  
+
+---
 
    *Gladiator*  
 entertained -> Are you not entertained  
 maximus -> I am Maximus Decimus...  
+
+---
 
    *Warcraft*  
 murloc  
