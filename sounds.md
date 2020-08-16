@@ -48,9 +48,19 @@ Use the shortname to start a sound, as a message of the "Play Sound" reward.
 
 ### South Park  
 
+* alerte au gogol -> OH OH OH, alerte au gogol.  
+* biere -> Chasser sans bière c'est comme... pêcher sans bière.  
+* bonjour -> Bonjour comment vas-tu mon jeune ami?  
 * donne -> Tu veux qu'on se la donne  
+* droguer -> Se droguer c'est mal m'voyez  
 * I member  
+* infirme -> Combat d'infirme!  
+* menace -> Mon Dieu, il fonce droit sur nous!  
 * mongols -> Tirez vous connard de mongols...  
+* quua  
+* timmy  
+* tuer -> On dirait que ce mec vient de te tuer non?  
+* zgeg -> Long zgeg et prospérité.  
 
 ### Star Wars  
 
