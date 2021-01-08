@@ -10,6 +10,7 @@ Use the shortname to start a sound, as a message of the "Play Sound" reward.
 * AYAYA  
 * bazinga  
 * coffin -> Coffin dance meme  
+* cow  
 * deja vu -> Deja vu, I have been in this place before...  
 * falcon punch  
 * fbi open up  
@@ -21,6 +22,7 @@ Use the shortname to start a sound, as a message of the "Play Sound" reward.
 * laught -> Look at this dude  
 * listen -> Navi: Hey, listen  
 * money -> Shut up and take my money  
+* monkey  
 * nani  
 * nyaa  
 * no god -> NO GOD NO!!!  
@@ -59,6 +61,7 @@ Use the shortname to start a sound, as a message of the "Play Sound" reward.
 * mongols -> Tirez vous connard de mongols...  
 * quua  
 * timmy  
+* ton genre -> On aime pas trop les gars dans ton genre par chez nous.  
 * tuer -> On dirait que ce mec vient de te tuer non?  
 * zgeg -> Long zgeg et prospérité.  
 
@@ -108,5 +111,12 @@ Use the shortname to start a sound, as a message of the "Play Sound" reward.
 
 ### Warcraft  
 
+* bwonsamdi  
+* drums of war  
+* forgotten  
+* frostmourne hungers  
 * murloc  
-* prepared -> You are not prepared  
+* prepared  
+* thrall destiny  
+* thrall power  
+* times change  
