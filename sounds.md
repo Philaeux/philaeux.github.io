@@ -6,7 +6,7 @@ Use the shortname to start a sound, as a message of the "Play Sound" reward.
 
 ### Various  
 
-* ah -> Denis Brognard  
+* <audio controls><source src="/assets/sound/warcraft/arthas_darkness.mp3" type="audio/mpeg"></audio>&nbsp; ah
 * AYAYA  
 * bazinga  
 * coffin -> Coffin dance meme  
