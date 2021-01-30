@@ -113,9 +113,11 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/arthas_darkness.mp3" type="audio/mpeg"></audio>&nbsp; arthas darkness  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/arthas_over.mp3" type="audio/mpeg"></audio>&nbsp; arthas over  
+* &nbsp; <audio controls><source src="/assets/sounds/warcraft/baby_murloc.mp3" type="audio/mpeg"></audio>&nbsp; baby murloc 
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/bwonsamdi.mp3" type="audio/mpeg"></audio>&nbsp; bwonsamdi  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/bwonsamdi_queen.mp3" type="audio/mpeg"></audio>&nbsp; bwonsamdi queen
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/bwonsamdi_shame.mp3" type="audio/mpeg"></audio>&nbsp; bwonsamdi shame
+* &nbsp; <audio controls><source src="/assets/sounds/warcraft/denathrius_humility.mp3" type="audio/mpeg"></audio>&nbsp; denathrius humility
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/drums_of_war.mp3" type="audio/mpeg"></audio>&nbsp; drums of war  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/for_the_alliance.mp3" type="audio/mpeg"></audio>&nbsp; for the alliance
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/for_the_horde.mp3" type="audio/mpeg"></audio>&nbsp; for the horde
@@ -139,7 +141,7 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/saurfang_good.mp3" type="audio/mpeg"></audio>&nbsp; saurfang good
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/saurfang_hide.mp3" type="audio/mpeg"></audio>&nbsp; saurfang hide
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/sylvanas_nothing.mp3" type="audio/mpeg"></audio>&nbsp; sylvanas nothing
-* &nbsp; <audio controls><source src="/assets/sounds/warcraft/sylvanas_prison.mp3" type="audio/mpeg"></audio>&nbsp; sylvanas_prison
+* &nbsp; <audio controls><source src="/assets/sounds/warcraft/sylvanas_prison.mp3" type="audio/mpeg"></audio>&nbsp; sylvanas prison
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/thrall_destiny.mp3" type="audio/mpeg"></audio>&nbsp; thrall destiny  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/thrall_power.mp3" type="audio/mpeg"></audio>&nbsp; thrall power  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/times_change.mp3" type="audio/mpeg"></audio>&nbsp; times change  
