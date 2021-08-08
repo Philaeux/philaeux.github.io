@@ -3,9 +3,14 @@
 @charset "utf-8";
 
 // RESET
-body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
-    margin: 0;
-    padding: 0;
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, figure, figcaption {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    outline: 0px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
 }
 
 a, a:visited {
@@ -13,21 +18,8 @@ a, a:visited {
     text-decoration: none;
 }
 
-@font-face {
-    font-family: Walbaum;
-    src: url("/assets/fonts/walbaum10xlpro.woff2");
-}
-font-face {
-    font-family: Walbaum;
-    src: url("/assets/fonts/walbaum10xlproitalic.woff2");
-    font-style: italic;
-}
-@font-face {
-    font-family: Walbaum;
-    src: url("/assets/fonts/walbaum10xlprobold.woff2");
-    font-weight: bold;
-}
-$fonts: Walbaum, Georgia, 'Times new roman', serif;
+$fonts: 'Open Sans', sans-serif;
+$title-fonts: 'Roboto', sans-serif;
 
 html {
     background-color: #F5F5F5;
