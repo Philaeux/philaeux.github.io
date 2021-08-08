@@ -10,19 +10,22 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/ayaya.mp3" type="audio/mpeg"></audio>&nbsp; AYAYA  
 * &nbsp; <audio controls><source src="/assets/sounds/bazinga.mp3" type="audio/mpeg"></audio>&nbsp; bazinga  
 * &nbsp; <audio controls><source src="/assets/sounds/coffin_dance.mp3" type="audio/mpeg"></audio>&nbsp; coffin
-* &nbsp; <audio controls><source src="/assets/sounds/cow.mp3" type="audio/mpeg"></audio>&nbsp; cow  
+* &nbsp; <audio controls><source src="/assets/sounds/damn.mp3" type="audio/mpeg"></audio>&nbsp; damn
 * &nbsp; <audio controls><source src="/assets/sounds/deja_vu.mp3" type="audio/mpeg"></audio>&nbsp; deja vu
+* &nbsp; <audio controls><source src="/assets/sounds/discord.mp3" type="audio/mpeg"></audio>&nbsp; discord
 * &nbsp; <audio controls><source src="/assets/sounds/falcon_punch.mp3" type="audio/mpeg"></audio>&nbsp; falcon punch  
 * &nbsp; <audio controls><source src="/assets/sounds/fbi_open_up.mp3" type="audio/mpeg"></audio>&nbsp; fbi open up  
 * &nbsp; <audio controls><source src="/assets/sounds/fucked_up.mp3" type="audio/mpeg"></audio>&nbsp; fucked up
 * &nbsp; <audio controls><source src="/assets/sounds/hadouken.mp3" type="audio/mpeg"></audio>&nbsp; hadouken  
 * &nbsp; <audio controls><source src="/assets/sounds/here_we_go_again.mp3" type="audio/mpeg"></audio>&nbsp; here we go again
+* &nbsp; <audio controls><source src="/assets/sounds/interessant.mp3" type="audio/mpeg"></audio>&nbsp; interessant
 * &nbsp; <audio controls><source src="/assets/sounds/kamehameha.mp3" type="audio/mpeg"></audio>&nbsp; kamehameha  
 * &nbsp; <audio controls><source src="/assets/sounds/lazor.mp3" type="audio/mpeg"></audio>&nbsp; lazor
 * &nbsp; <audio controls><source src="/assets/sounds/laught.mp3" type="audio/mpeg"></audio>&nbsp; laught
 * &nbsp; <audio controls><source src="/assets/sounds/listen.mp3" type="audio/mpeg"></audio>&nbsp; listen
 * &nbsp; <audio controls><source src="/assets/sounds/shut_up_and_take_my_money.mp3" type="audio/mpeg"></audio>&nbsp; money
-* &nbsp; <audio controls><source src="/assets/sounds/monkey.mp3" type="audio/mpeg"></audio>&nbsp; monkey  
+* &nbsp; <audio controls><source src="/assets/sounds/msn.mp3" type="audio/mpeg"></audio>&nbsp; msn  
+* &nbsp; <audio controls><source src="/assets/sounds/msn_wizz.mp3" type="audio/mpeg"></audio>&nbsp; msn wizz 
 * &nbsp; <audio controls><source src="/assets/sounds/nani.mp3" type="audio/mpeg"></audio>&nbsp; nani  
 * &nbsp; <audio controls><source src="/assets/sounds/nyaa.mp3" type="audio/mpeg"></audio>&nbsp; nyaa  
 * &nbsp; <audio controls><source src="/assets/sounds/no_god.mp3" type="audio/mpeg"></audio>&nbsp; no god
@@ -35,8 +38,14 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/tutturu.mp3" type="audio/mpeg"></audio>&nbsp; tutturu  
 * &nbsp; <audio controls><source src="/assets/sounds/wololo.mp3" type="audio/mpeg"></audio>&nbsp; wololo  
 
+### Animals  
+
+* &nbsp; <audio controls><source src="/assets/sounds/animals/cow.mp3" type="audio/mpeg"></audio>&nbsp; cow  
+* &nbsp; <audio controls><source src="/assets/sounds/animals/dolphin.mp3" type="audio/mpeg"></audio>&nbsp; dolphin  
+* &nbsp; <audio controls><source src="/assets/sounds/animals/monkey.mp3" type="audio/mpeg"></audio>&nbsp; monkey  
+
 ### DOTA  
- 
+
 * &nbsp; <audio controls><source src="/assets/sounds/dota/caster_ding_ding.mp3" type="audio/mpeg"></audio>&nbsp; ding ding
 * &nbsp; <audio controls><source src="/assets/sounds/dota/juggernaut_i_am_the_juggernaut_bitch.mp3" type="audio/mpeg"></audio>&nbsp; jugger bitch
 * &nbsp; <audio controls><source src="/assets/sounds/dota/kotl_you_shall_not_cast.mp3" type="audio/mpeg"></audio>&nbsp; kotl cast
