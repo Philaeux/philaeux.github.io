@@ -9,13 +9,16 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/denis_ah.mp3" type="audio/mpeg"></audio>&nbsp; ah
 * &nbsp; <audio controls><source src="/assets/sounds/ayaya.mp3" type="audio/mpeg"></audio>&nbsp; AYAYA  
 * &nbsp; <audio controls><source src="/assets/sounds/bazinga.mp3" type="audio/mpeg"></audio>&nbsp; bazinga  
+* &nbsp; <audio controls><source src="/assets/sounds/bruh.mp3" type="audio/mpeg"></audio>&nbsp; bruh  
 * &nbsp; <audio controls><source src="/assets/sounds/coffin_dance.mp3" type="audio/mpeg"></audio>&nbsp; coffin
 * &nbsp; <audio controls><source src="/assets/sounds/damn.mp3" type="audio/mpeg"></audio>&nbsp; damn
 * &nbsp; <audio controls><source src="/assets/sounds/deja_vu.mp3" type="audio/mpeg"></audio>&nbsp; deja vu
 * &nbsp; <audio controls><source src="/assets/sounds/discord.mp3" type="audio/mpeg"></audio>&nbsp; discord
+* &nbsp; <audio controls><source src="/assets/sounds/dont_give_up.mp3" type="audio/mpeg"></audio>&nbsp; don't give up
 * &nbsp; <audio controls><source src="/assets/sounds/falcon_punch.mp3" type="audio/mpeg"></audio>&nbsp; falcon punch  
 * &nbsp; <audio controls><source src="/assets/sounds/fbi_open_up.mp3" type="audio/mpeg"></audio>&nbsp; fbi open up  
 * &nbsp; <audio controls><source src="/assets/sounds/fucked_up.mp3" type="audio/mpeg"></audio>&nbsp; fucked up
+* &nbsp; <audio controls><source src="/assets/sounds/gasp.mp3" type="audio/mpeg"></audio>&nbsp; gasp
 * &nbsp; <audio controls><source src="/assets/sounds/hadouken.mp3" type="audio/mpeg"></audio>&nbsp; hadouken  
 * &nbsp; <audio controls><source src="/assets/sounds/here_we_go_again.mp3" type="audio/mpeg"></audio>&nbsp; here we go again
 * &nbsp; <audio controls><source src="/assets/sounds/interessant.mp3" type="audio/mpeg"></audio>&nbsp; interessant
@@ -29,6 +32,7 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/nani.mp3" type="audio/mpeg"></audio>&nbsp; nani  
 * &nbsp; <audio controls><source src="/assets/sounds/nyaa.mp3" type="audio/mpeg"></audio>&nbsp; nyaa  
 * &nbsp; <audio controls><source src="/assets/sounds/no_god.mp3" type="audio/mpeg"></audio>&nbsp; no god
+* &nbsp; <audio controls><source src="/assets/sounds/nope.mp3" type="audio/mpeg"></audio>&nbsp; nope
 * &nbsp; <audio controls><source src="/assets/sounds/oof.mp3" type="audio/mpeg"></audio>&nbsp; oof  
 * &nbsp; <audio controls><source src="/assets/sounds/oh_no_no_no.mp3" type="audio/mpeg"></audio>&nbsp; oh no no  
 * &nbsp; <audio controls><source src="/assets/sounds/run_bitch_run.mp3" type="audio/mpeg"></audio>&nbsp; run bitch
@@ -46,16 +50,31 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 
 ### DOTA  
 
-* &nbsp; <audio controls><source src="/assets/sounds/dota/caster_ding_ding.mp3" type="audio/mpeg"></audio>&nbsp; ding ding
-* &nbsp; <audio controls><source src="/assets/sounds/dota/juggernaut_i_am_the_juggernaut_bitch.mp3" type="audio/mpeg"></audio>&nbsp; jugger bitch
-* &nbsp; <audio controls><source src="/assets/sounds/dota/kotl_you_shall_not_cast.mp3" type="audio/mpeg"></audio>&nbsp; kotl cast
-* &nbsp; <audio controls><source src="/assets/sounds/dota/caster_lakad.mp3" type="audio/mpeg"></audio>&nbsp; lakad
-* &nbsp; <audio controls><source src="/assets/sounds/dota/lion_hell_back.mp3" type="audio/mpeg"></audio>&nbsp; lion hell  
-* &nbsp; <audio controls><source src="/assets/sounds/dota/meep_merp.mp3" type="audio/mpeg"></audio>&nbsp; meep merp  
+* &nbsp; <audio controls><source src="/assets/sounds/dota/caster_ding_ding.mp3" type="audio/mpeg"></audio>&nbsp; dota ding ding
+* &nbsp; <audio controls><source src="/assets/sounds/dota/juggernaut_i_am_the_juggernaut_bitch.mp3" type="audio/mpeg"></audio>&nbsp; dota jugger bitch
+* &nbsp; <audio controls><source src="/assets/sounds/dota/kotl_you_shall_not_cast.mp3" type="audio/mpeg"></audio>&nbsp; dota kotl cast
+* &nbsp; <audio controls><source src="/assets/sounds/dota/caster_lakad.mp3" type="audio/mpeg"></audio>&nbsp; dota lakad
+* &nbsp; <audio controls><source src="/assets/sounds/dota/lion_hell_back.mp3" type="audio/mpeg"></audio>&nbsp; dota lion hell  
+* &nbsp; <audio controls><source src="/assets/sounds/dota/meep_merp.mp3" type="audio/mpeg"></audio>&nbsp; dota meep merp  
 
 ### The Lord of the Rings  
 
 * &nbsp; <audio controls><source src="/assets/sounds/lotr/you_shall_not_pass.mp3" type="audio/mpeg"></audio>&nbsp; pass
+
+### The Matrix  
+
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_deja_vu.mp3" type="audio/mpeg"></audio>&nbsp; matrix deja vu 
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_dodge_this.mp3" type="audio/mpeg"></audio>&nbsp; matrix dodge this
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_dreaming.mp3" type="audio/mpeg"></audio>&nbsp; matrix dreaming
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_faster.mp3" type="audio/mpeg"></audio>&nbsp; matrix faster
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_free_your_mind.mp3" type="audio/mpeg"></audio>&nbsp; matrix free your mind
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_hard_to_believe.mp3" type="audio/mpeg"></audio>&nbsp; matrix hard to believe
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_holy_shit.mp3" type="audio/mpeg"></audio>&nbsp; matrix holy shit
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_human_being.mp3" type="audio/mpeg"></audio>&nbsp; matrix human being
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_kungfu.mp3" type="audio/mpeg"></audio>&nbsp; matrix kungfu
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_not_possible.mp3" type="audio/mpeg"></audio>&nbsp; matrix not possible
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_rules.mp3" type="audio/mpeg"></audio>&nbsp; matrix rules
+* &nbsp; <audio controls><source src="/assets/sounds/matrix/1/matrix_truth.mp3" type="audio/mpeg"></audio>&nbsp; matrix truth
 
 ### South Park  
 
@@ -151,6 +170,7 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/saurfang_hide.mp3" type="audio/mpeg"></audio>&nbsp; saurfang hide
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/sylvanas_nothing.mp3" type="audio/mpeg"></audio>&nbsp; sylvanas nothing
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/sylvanas_prison.mp3" type="audio/mpeg"></audio>&nbsp; sylvanas prison
+* &nbsp; <audio controls><source src="/assets/sounds/warcraft/sylvanas_serve.mp3" type="audio/mpeg"></audio>&nbsp; sylvanas serve
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/thrall_destiny.mp3" type="audio/mpeg"></audio>&nbsp; thrall destiny  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/thrall_power.mp3" type="audio/mpeg"></audio>&nbsp; thrall power  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/times_change.mp3" type="audio/mpeg"></audio>&nbsp; times change  
