@@ -39,8 +39,10 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/shindeiru.mp3" type="audio/mpeg"></audio>&nbsp; shindeiru
 * &nbsp; <audio controls><source src="/assets/sounds/sorry.mp3" type="audio/mpeg"></audio>&nbsp; sorry
 * &nbsp; <audio controls><source src="/assets/sounds/steam_chat.mp3" type="audio/mpeg"></audio>&nbsp; steam chat
+* &nbsp; <audio controls><source src="/assets/sounds/300/this_is_sparta.mp3" type="audio/mpeg"></audio>&nbsp; this is sparta  
 * &nbsp; <audio controls><source src="/assets/sounds/tutturu.mp3" type="audio/mpeg"></audio>&nbsp; tutturu  
 * &nbsp; <audio controls><source src="/assets/sounds/wololo.mp3" type="audio/mpeg"></audio>&nbsp; wololo  
+* &nbsp; <audio controls><source src="/assets/sounds/lotr/you_shall_not_pass.mp3" type="audio/mpeg"></audio>&nbsp; pass
 
 ### Animals  
 
@@ -56,10 +58,6 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/dota/caster_lakad.mp3" type="audio/mpeg"></audio>&nbsp; dota lakad
 * &nbsp; <audio controls><source src="/assets/sounds/dota/lion_hell_back.mp3" type="audio/mpeg"></audio>&nbsp; dota lion hell  
 * &nbsp; <audio controls><source src="/assets/sounds/dota/meep_merp.mp3" type="audio/mpeg"></audio>&nbsp; dota meep merp  
-
-### The Lord of the Rings  
-
-* &nbsp; <audio controls><source src="/assets/sounds/lotr/you_shall_not_pass.mp3" type="audio/mpeg"></audio>&nbsp; pass
 
 ### The Matrix  
 
@@ -123,19 +121,18 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/kaamelott/bon_ben_revolte.mp3" type="audio/mpeg"></audio>&nbsp; revolte
 * &nbsp; <audio controls><source src="/assets/sounds/kaamelott/a_la_volette1.mp3" type="audio/mpeg"></audio>&nbsp; volette
 
-### Les Inconnus  
+### Age of Empire  
 
-* &nbsp; <audio controls><source src="/assets/sounds/inconnus/chasseur.mp3" type="audio/mpeg"></audio>&nbsp; chasseur
-* &nbsp; <audio controls><source src="/assets/sounds/inconnus/mais_que_se_passe_t_il.mp3" type="audio/mpeg"></audio>&nbsp; que se passe
-
-### 300  
-
-* &nbsp; <audio controls><source src="/assets/sounds/300/this_is_sparta.mp3" type="audio/mpeg"></audio>&nbsp; this is sparta  
-
-### Gladiator  
-
-* &nbsp; <audio controls><source src="/assets/sounds/gladiator/are_you_not_entertained.mp3" type="audio/mpeg"></audio>&nbsp; entertained
-* &nbsp; <audio controls><source src="/assets/sounds/gladiator/my_name_is_maximus.mp3" type="audio/mpeg"></audio>&nbsp; maximus
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_2h.mp3" type="audio/mpeg"></audio>&nbsp; aoe 2h
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_food.mp3" type="audio/mpeg"></audio>&nbsp; aoe food
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_good_king.mp3" type="audio/mpeg"></audio>&nbsp; aoe good king
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_king_losers.mp3" type="audio/mpeg"></audio>&nbsp; aoe king losers
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_no.mp3" type="audio/mpeg"></audio>&nbsp; aoe no
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_other_guy.mp3" type="audio/mpeg"></audio>&nbsp; aoe other guy
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_raid.mp3" type="audio/mpeg"></audio>&nbsp; aoe raid
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_start.mp3" type="audio/mpeg"></audio>&nbsp; aoe start
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_wololo.mp3" type="audio/mpeg"></audio>&nbsp; aoe wololo
+* &nbsp; <audio controls><source src="/assets/sounds/aoe/aoe_yes.mp3" type="audio/mpeg"></audio>&nbsp; aoe yes
 
 ### Warcraft  
 
@@ -175,3 +172,13 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/thrall_power.mp3" type="audio/mpeg"></audio>&nbsp; thrall power  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/times_change.mp3" type="audio/mpeg"></audio>&nbsp; times change  
 * &nbsp; <audio controls><source src="/assets/sounds/warcraft/velen_light.mp3" type="audio/mpeg"></audio>&nbsp; velen light
+
+### Les Inconnus  
+
+* &nbsp; <audio controls><source src="/assets/sounds/inconnus/chasseur.mp3" type="audio/mpeg"></audio>&nbsp; chasseur
+* &nbsp; <audio controls><source src="/assets/sounds/inconnus/mais_que_se_passe_t_il.mp3" type="audio/mpeg"></audio>&nbsp; que se passe
+
+### Gladiator  
+
+* &nbsp; <audio controls><source src="/assets/sounds/gladiator/are_you_not_entertained.mp3" type="audio/mpeg"></audio>&nbsp; entertained
+* &nbsp; <audio controls><source src="/assets/sounds/gladiator/my_name_is_maximus.mp3" type="audio/mpeg"></audio>&nbsp; maximus
