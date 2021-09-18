@@ -104,20 +104,23 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 
 ### South Park  
 
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\alerte_au_gogol.mp3" type="audio/mpeg"></audio>&nbsp; alerte au gogol
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\biere.mp3" type="audio/mpeg"></audio>&nbsp; biere
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\bonjour.mp3" type="audio/mpeg"></audio>&nbsp; bonjour
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\donne.mp3" type="audio/mpeg"></audio>&nbsp; donne
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\droguer.mp3" type="audio/mpeg"></audio>&nbsp; droguer
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\infirme.mp3" type="audio/mpeg"></audio>&nbsp; infirme
 * &nbsp; <audio controls><source src="\assets\sounds\south_park\i_member.mp3" type="audio/mpeg"></audio>&nbsp; i member
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\menace.mp3" type="audio/mpeg"></audio>&nbsp; menace
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\mongols.mp3" type="audio/mpeg"></audio>&nbsp; mongols
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\quua.mp3" type="audio/mpeg"></audio>&nbsp; quua
 * &nbsp; <audio controls><source src="\assets\sounds\south_park\timmy.mp3" type="audio/mpeg"></audio>&nbsp; timmy
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\ton_genre.mp3" type="audio/mpeg"></audio>&nbsp; ton genre
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\tuer.mp3" type="audio/mpeg"></audio>&nbsp; tuer
-* &nbsp; <audio controls><source src="\assets\sounds\south_park\zgeg.mp3" type="audio/mpeg"></audio>&nbsp; zgeg
+
+### South Park Fr  
+
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\alerte_au_gogol.mp3" type="audio/mpeg"></audio>&nbsp; alerte au gogol
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\biere.mp3" type="audio/mpeg"></audio>&nbsp; biere
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\bonjour.mp3" type="audio/mpeg"></audio>&nbsp; bonjour
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\donne.mp3" type="audio/mpeg"></audio>&nbsp; donne
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\droguer.mp3" type="audio/mpeg"></audio>&nbsp; droguer
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\infirme.mp3" type="audio/mpeg"></audio>&nbsp; infirme
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\menace.mp3" type="audio/mpeg"></audio>&nbsp; menace
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\mongols.mp3" type="audio/mpeg"></audio>&nbsp; mongols
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\quua.mp3" type="audio/mpeg"></audio>&nbsp; quua
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\ton_genre.mp3" type="audio/mpeg"></audio>&nbsp; ton genre
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\tuer.mp3" type="audio/mpeg"></audio>&nbsp; tuer
+* &nbsp; <audio controls><source src="\assets\sounds\south_park_fr\zgeg.mp3" type="audio/mpeg"></audio>&nbsp; zgeg
 
 ### Star Wars  
 
