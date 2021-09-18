@@ -25,15 +25,47 @@ Use the name to start a sound as a message of the "Play Sound" reward.
 
 ### Dota  
 
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_aw_primordial.mp3" type="audio/mpeg"></audio>&nbsp; dota aw primordial
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_aw_self.mp3" type="audio/mpeg"></audio>&nbsp; dota aw self
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_aw_unite.mp3" type="audio/mpeg"></audio>&nbsp; dota aw unite
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_caster_ding.mp3" type="audio/mpeg"></audio>&nbsp; dota caster ding
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_caster_lakad.mp3" type="audio/mpeg"></audio>&nbsp; dota caster lakad
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_agent_chaos.mp3" type="audio/mpeg"></audio>&nbsp; dota ck agent chaos
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_chaos_expands.mp3" type="audio/mpeg"></audio>&nbsp; dota ck chaos expands
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_chaos_reign.mp3" type="audio/mpeg"></audio>&nbsp; dota ck chaos reign
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_chaos_spreads.mp3" type="audio/mpeg"></audio>&nbsp; dota ck chaos spreads
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_creation_order.mp3" type="audio/mpeg"></audio>&nbsp; dota ck creation order
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_death_follow.mp3" type="audio/mpeg"></audio>&nbsp; dota ck death follow
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_knight.mp3" type="audio/mpeg"></audio>&nbsp; dota ck knight
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_ck_legion_comes.mp3" type="audio/mpeg"></audio>&nbsp; dota ck legion comes
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_cm_burn_body.mp3" type="audio/mpeg"></audio>&nbsp; dota cm burn body
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_cm_ice_nice.mp3" type="audio/mpeg"></audio>&nbsp; dota cm ice nice
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_gyro_dodge_this.mp3" type="audio/mpeg"></audio>&nbsp; dota gyro dodge this
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_gyro_horse_shit.mp3" type="audio/mpeg"></audio>&nbsp; dota gyro horse shit
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_jugg_bitch.mp3" type="audio/mpeg"></audio>&nbsp; dota jugg bitch
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_kotl_shall_not.mp3" type="audio/mpeg"></audio>&nbsp; dota kotl shall not
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_lina.mp3" type="audio/mpeg"></audio>&nbsp; dota lina
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_lina_spark.mp3" type="audio/mpeg"></audio>&nbsp; dota lina spark
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_lina_world.mp3" type="audio/mpeg"></audio>&nbsp; dota lina world
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_lion_demon_witch.mp3" type="audio/mpeg"></audio>&nbsp; dota lion demon witch
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_lion_hell.mp3" type="audio/mpeg"></audio>&nbsp; dota lion hell
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_lion_strong_arm.mp3" type="audio/mpeg"></audio>&nbsp; dota lion strong arm
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_mk_king_arrives.mp3" type="audio/mpeg"></audio>&nbsp; dota mk king arrives
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_qop_hurt_love.mp3" type="audio/mpeg"></audio>&nbsp; dota qop hurt love
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_qop_long_live.mp3" type="audio/mpeg"></audio>&nbsp; dota qop long live
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_qop_pain_gain.mp3" type="audio/mpeg"></audio>&nbsp; dota qop pain gain
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_qop_resist.mp3" type="audio/mpeg"></audio>&nbsp; dota qop resist
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_qop_way.mp3" type="audio/mpeg"></audio>&nbsp; dota qop way
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_rubick_mysteries.mp3" type="audio/mpeg"></audio>&nbsp; dota rubick mysteries
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_shaker_many.mp3" type="audio/mpeg"></audio>&nbsp; dota shaker many
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_tinker_7m.mp3" type="audio/mpeg"></audio>&nbsp; dota tinker 7m
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_tinker_beams.mp3" type="audio/mpeg"></audio>&nbsp; dota tinker beams
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_tinker_pew.mp3" type="audio/mpeg"></audio>&nbsp; dota tinker pew
 * &nbsp; <audio controls><source src="\assets\sounds\dota\dota_var_merp.mp3" type="audio/mpeg"></audio>&nbsp; dota var merp
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_void_history.mp3" type="audio/mpeg"></audio>&nbsp; dota void history
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_wd_feeling_good.mp3" type="audio/mpeg"></audio>&nbsp; dota wd feeling good
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_wd_look_at_it.mp3" type="audio/mpeg"></audio>&nbsp; dota wd look at it
+* &nbsp; <audio controls><source src="\assets\sounds\dota\dota_wd_song.mp3" type="audio/mpeg"></audio>&nbsp; dota wd song
 
 ### Kaamelott  
 
