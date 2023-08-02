@@ -6,16 +6,11 @@
   <doc-data|<doc-title|Autopsie de la démocratie française>>
 
   <abstract-data|<abstract|Après des mois de conflit social entre le peuple
-  français et son gouvernement au sujet de la réforme des retraites,
-  l'exécutif essaie désespérément de passer à un autre sujet. La gauche,
-  politique et syndicale, tente de maintenir la lutte contre ce projet
-  qu'elle juge injuste et non nécessaire. La population, dont la tendance
-  générale peut être perçue à travers le prisme des sondages d'opinion, a
-  toujours été majoritairement opposée à cette loi. Et pourtant, le texte est
-  arrivé au bout du chemin législatif, et non le chemin démocratique comme le
-  revendiquent les membres de La République en Marche. Retour sur des
-  anomalies qui témoignent de bien plus que d'un simple dysfonctionnement
-  ponctuel des institutions.>>
+  français et son gouvernement, l'exécutif essaie de passer à d'autres
+  sujets. La population a toujours été majoritairement opposée à la réforme
+  des retraites, et pourtant, le texte est arrivé au bout du chemin
+  législatif - et non démocratique comme revendiqué. Retour sur des anomalies
+  qui témoignent d'un dysfonctionnement systémique des institutions.>>
 
   \;
 
@@ -131,19 +126,10 @@
   silencieuses jusqu'au moment où ils feront à leur tour partie des
   vainqueurs.
 
-  Prenons le cas des députés, élus dans 577 circonscriptions pour une durée
-  de 5 ans. Ils sont donc les vainqueurs de 577 élections législatives
-  indépendantes. Lorsqu'ils arrivent à l'Assemblée, ils ne mettent pas en
-  avant les voix de tous les citoyens de leur circonscription, mais
-  uniquement celles ayant la même affiliation politique qu'eux. En réalité,
-  si un électeur a voté pour un candidat qui n'est pas élu député, sa voix
-  est simplement ignorée. Seule la voix majoritaire de chaque circonscription
-  se fait entendre à l'Assemblée, tandis que les autres voix restent
-  silencieuses jusqu'au moment où ils feront à leur tour partie des
-  vainqueurs. Considérons l'exercice mental suivant où deux partis politiques
-  A et B sont présents dans des proportions respectives de 45% et de 55%. Si
-  cette population est uniformément répartie sur le territoire, alors
-  l'Assemblée sera entièrement composée de députés du parti B. Il s'agit d'un
+  Considérons l'exercice mental suivant où deux partis politiques A et B sont
+  présents dans des proportions respectives de 45% et de 55%. Si cette
+  population est uniformément répartie sur le territoire, alors l'Assemblée
+  sera entièrement composée de députés du parti B. Il s'agit d'un
   dysfonctionnement majeur en termes de représentativité. Dans la réalité, on
   retrouve des députés de différentes familles politiques grâce à la
   répartition hétérogène de la population sur le territoire. Cependant, si
