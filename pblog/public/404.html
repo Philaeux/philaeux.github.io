@@ -1,9 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="refresh" content="0; url=./index.html">
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; URL=./">
+  <script type="text/javascript">
+    // Client-side redirect to index.html while preserving the route
+    var path = window.location.pathname;
+    var query = window.location.search;
+    var hash = window.location.hash;
+    var newUrl = './index.html' + query + hash;
+
+    // Add path if it's a SPA path (not a file)
+    if (!path.endsWith('/') && !path.includes('.')) {
+      newUrl = './' + path.split('/').filter(Boolean).join('/') + newUrl;
+    }
+
+    window.location.replace(newUrl);
+  </script>
 </head>
 <body>
-  <p>If you are not redirected automatically, follow this <a href="./index.html">link</a>.</p>
+  <p>If you are not redirected automatically, follow this <a href="./">link</a>.</p>
 </body>
 </html>
