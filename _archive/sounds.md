@@ -1,7 +1,3 @@
----
-layout: post
-title: Sounds available in Stream
----
 Use the name to start a sound as a message of the "Play Sound" reward. 
 
 * [Admiralbulldog Community](#admiralbulldog_community)

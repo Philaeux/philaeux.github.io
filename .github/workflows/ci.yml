@@ -1,0 +1,37 @@
+name: Build and Deploy Angular App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # Ensures the GITHUB_TOKEN has write permissions
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@main
+
+    - name: Set up Node.js
+      uses: actions/setup-node@main
+      with:
+        node-version: '20'
+
+    - name: Install dependencies
+      run: npm install
+      working-directory: ./pblog
+
+    - name: Build the project
+      run: npm run build 
+      working-directory: ./pblog
+
+    - name: Deploy to GitHub Pages
+      if: success()
+      uses: peaceiris/actions-gh-pages@v4
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./pblog/dist/pblog/browser

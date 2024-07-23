@@ -1,8 +1,0 @@
-- name:         Index
-  url:          /
-- name:         Archives
-  url:          /archives
-  external:     false
-- name:         About
-  url:          /about
-  external:     false
