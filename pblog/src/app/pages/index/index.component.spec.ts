@@ -9,11 +9,13 @@ describe('IndexComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [IndexComponent]
+      imports: [IndexComponent],
       providers: [
+        {
         provide: ActivatedRoute,
         useValue: {
           params: of({}),
+       },
       }
      ]
     })
