@@ -1,1 +1,11 @@
-<router-outlet></router-outlet>
+<div class="top-bar">
+    <img src="/static/img/greywolf.png" alt="Philaeux" class="logo">
+    <div class="nav">
+        <a [routerLink]="['']" RouterLink="" class="nav-item">Articles</a>
+        <a href="/dadmap/" class="nav-item">DaD Map</a>
+        <a [routerLink]="['sounds']" RouterLink="sounds" class="nav-item">Stream Sounds</a>
+    </div>
+</div>
+<div class="content">
+    <router-outlet></router-outlet>
+</div>
