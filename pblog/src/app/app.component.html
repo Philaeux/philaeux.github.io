@@ -1,11 +1,19 @@
 <div class="top-bar">
     <img src="/static/img/greywolf.png" alt="Philaeux" class="logo">
     <div class="nav">
-        <a [routerLink]="['']" RouterLink="" class="nav-item">Articles</a>
-        <a href="/dadmap/" class="nav-item">DaD Map</a>
-        <a [routerLink]="['sounds']" RouterLink="sounds" class="nav-item">Stream Sounds</a>
+        <button mat-button [routerLink]="['']">Articles</button>
+
+        <button mat-button [matMenuTriggerFor]="menu">Pages</button>
+        <mat-menu #menu="matMenu">
+            <button mat-menu-item [routerLink]="['sounds']">Stream playsounds</button>
+            <a href="/dadmap/" mat-menu-item>Dark and Darker maps</a>
+        </mat-menu>
+
+        <button mat-button>Profil</button>
+
     </div>
 </div>
 <div class="content">
+
     <router-outlet></router-outlet>
 </div>
