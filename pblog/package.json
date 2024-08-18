@@ -21,6 +21,12 @@
     "@angular/platform-browser": "^18.1.0",
     "@angular/platform-browser-dynamic": "^18.1.0",
     "@angular/router": "^18.1.0",
+    "emoji-toolkit": "^8.0.0",
+    "katex": "^0.16.11",
+    "marked": "^12.0.2",
+    "mermaid": "^10.9.1",
+    "ngx-markdown": "^18.0.0",
+    "prismjs": "^1.29.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
