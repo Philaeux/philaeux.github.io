@@ -1,1 +1,19 @@
-...
+<div class=""article-list>
+
+    @for(article of articles.articles; track $index) {
+
+    <div class="article-list-item" (click)="selectArticle(article.id)">
+        <div class="article-list-date">
+            {{article.date}}
+        </div>
+        <div class="article-list-language">
+            {{article.language}}
+        </div>
+        <div class="article-list-title">
+            {{article.title}}
+        </div>
+    </div>
+
+    }
+
+</div>
