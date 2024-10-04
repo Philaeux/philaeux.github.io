@@ -59,7 +59,7 @@ lors des transitions gouvernementales et veille au bon fonctionnement des instit
 
 Cet idéal de présidence correspond à la fonction actuelle du Président Fédéral d'Allemagne. Celui-ci est élu au suffrage indirect à trois tours par le parlement. Néanmoins, il serait envisageable de l'élire au suffrage universel direct, en utilisant un système de vote approprié.
 
-## De la séparation des pouvoirss
+## De la séparation des pouvoirs
 
 La séparation des pouvoirs entre différents acteurs politiques est considérée comme un élément fondamental pour garantir le bon fonctionnement des républiques démocratiques. Cette configuration vise à prévenir l'accumulation excessive de pouvoirs, ce qui pourrait mettre en péril le systèm. Chaque pouvoir est ainsi soumis à des contre-pouvoirs, créant ainsi un système de vérifications et d'équilibres. Cependant, dans le contexte de la Cinquième République française, il existe une confusion quant aux prérogatives du pouvoir exécutif, et même un empiètement de ses compétences sur les domaines de la justice et de la législation.
 
