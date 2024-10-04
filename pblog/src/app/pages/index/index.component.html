@@ -1,6 +1,6 @@
 <div class=""article-list>
 
-    @for(article of articles.articles; track $index) {
+    @for(article of articles; track $index) {
 
     <div class="article-list-item" (click)="selectArticle(article.id)">
         <div class="article-list-date">

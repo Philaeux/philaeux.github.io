@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
 import { Router, RouterLink } from '@angular/router';
 import { MarkdownModule } from 'ngx-markdown';
+
 import ARTICLES from "../../articles.json";
-import { Articles } from '../../models';
+import { Article } from '../../models';
 
 
 @Component({
@@ -17,7 +18,7 @@ import { Articles } from '../../models';
 })
 export class IndexComponent {
 
-  articles: Articles = ARTICLES
+  articles: Article[] = ARTICLES
 
   articleContent: string | null = null
 

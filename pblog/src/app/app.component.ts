@@ -4,6 +4,8 @@ import { MatMenuModule } from '@angular/material/menu';
 import { RouterLink, RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
 
+import CHEAT_SHEETS from "./cheat-sheets.json"
+
 @Component({
   selector: 'app-root',
   standalone: true,
@@ -19,4 +21,5 @@ import { CommonModule } from '@angular/common';
 })
 export class AppComponent {
 
+  public CHEAT_SHEETS = CHEAT_SHEETS
 }

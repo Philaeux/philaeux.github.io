@@ -7,8 +7,9 @@ export interface SoundCategory {
     sounds: string[]
 }
 
-export interface Articles {
-    articles: Article[]
+export interface CheatSheet {
+    id: string
+    title: string
 }
 
 export interface Article {

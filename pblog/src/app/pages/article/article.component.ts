@@ -1,6 +1,4 @@
 import { Component } from '@angular/core';
-import { Articles } from '../../models';
-import ARTICLES from '../../articles.json'
 import { ActivatedRoute, RouterLink } from '@angular/router';
 import { MarkdownModule } from 'ngx-markdown';
 import { HttpClient } from '@angular/common/http';

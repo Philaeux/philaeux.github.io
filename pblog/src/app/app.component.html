@@ -3,6 +3,13 @@
     <div class="nav">
         <button mat-button [routerLink]="['']">Articles</button>
 
+        <button mat-button [matMenuTriggerFor]="menu">Cheat Sheets</button>
+        <mat-menu #menu="matMenu">
+            @for(cs of CHEAT_SHEETS; track $index){
+                <button mat-menu-item [routerLink]="['article', cs.id]">{{cs.title}}</button>
+            }
+        </mat-menu>
+
         <button mat-button [matMenuTriggerFor]="menu">Pages</button>
         <mat-menu #menu="matMenu">
             <button mat-menu-item [routerLink]="['sounds']">Stream playsounds</button>

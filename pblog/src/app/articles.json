@@ -1,16 +1,14 @@
-{
-    "articles": [
-        {
-            "id": "2023-07-25-autopsie-democratie-française",
-            "date": "2023-07-25",
-            "language": "FRA",
-            "title": "Autopsie de la démocratie française"
-        },
-        {
-            "id": "2020-04-08-covid-arme-virale",
-            "date": "2020-04-08",
-            "language": "FRA",
-            "title": "COVID-19: aveu d'échec d'une hypothétique arme virale ?"
-        }
-    ]
-}
+[
+    {
+        "id": "2023-07-25-autopsie-democratie-française",
+        "date": "2023-07-25",
+        "language": "FRA",
+        "title": "Autopsie de la démocratie française"
+    },
+    {
+        "id": "2020-04-08-covid-arme-virale",
+        "date": "2020-04-08",
+        "language": "FRA",
+        "title": "COVID-19: aveu d'échec d'une hypothétique arme virale ?"
+    }
+]
