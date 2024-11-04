@@ -1,22 +1,6 @@
 {
  "list": [
   {
-   "name": "admiralbulldog_community",
-   "sounds": [
-    "archass",
-    "archbalanced",
-    "archincest",
-    "archweeb",
-    "badboy",
-    "gooddesign",
-    "mywife",
-    "permaban",
-    "sniffa",
-    "stayhome",
-    "suckadick"
-   ]
-  },
-  {
    "name": "age_of_empires",
    "sounds": [
     "2h",
@@ -410,6 +394,7 @@
     "forgotten",
     "freedom",
     "frostmourne",
+    "glad",
     "good",
     "hide",
     "hoping_to_see_you",
