@@ -15,7 +15,6 @@ import { HttpClient } from '@angular/common/http';
 })
 export class ArticleComponent {
 
-  articleId: string | null = null
   articleContent: string | null = null
   
   constructor(
@@ -24,11 +23,12 @@ export class ArticleComponent {
   ) {}
 
   ngOnInit(): void {
-    this.articleId = this.route.snapshot.paramMap.get('id');
+    this.route.paramMap.subscribe((paramMap) => {
+      let articleId = paramMap.get("id")
+      this.http.get('static/articles/' + articleId + '.md', { responseType: 'text' }).subscribe(data => {
+        this.articleContent = data
+      });
+    })
 
-    this.http.get('static/articles/' + this.articleId + '.md', { responseType: 'text' }).subscribe(data => {
-      this.articleContent = data
-    });
   }
-
 }
