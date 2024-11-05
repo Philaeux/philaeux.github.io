@@ -1,12 +1,14 @@
 .article-list {
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    line-height: 1.5em;
+    font-weight: 400;
+    font-size: x-large;
 }
 
 .article-list-item {
     cursor: pointer;
     display: flex;
     flex-direction: row;
-    gap: 32px;
+    gap: 24px;
 }

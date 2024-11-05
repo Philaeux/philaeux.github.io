@@ -1,22 +1,22 @@
 <div class="top-bar">
     <img class="logo" src="/static/img/greywolf.png" alt="Philaeux" [routerLink]="['']">
     <div class="nav">
-        <button mat-button [routerLink]="['']">Articles</button>
+        <button class="top-bar-button" mat-button [routerLink]="['']">Articles</button>
 
-        <button mat-button [matMenuTriggerFor]="menu">Cheat Sheets</button>
+        <button class="top-bar-button" mat-button [matMenuTriggerFor]="menu">Cheat sheets</button>
         <mat-menu #menu="matMenu">
             @for(cs of CHEAT_SHEETS; track $index){
                 <button mat-menu-item [routerLink]="['article', cs.id]">{{cs.title}}</button>
             }
         </mat-menu>
 
-        <button mat-button [matMenuTriggerFor]="menu2">Pages</button>
+        <button class="top-bar-button" mat-button [matMenuTriggerFor]="menu2">Pages</button>
         <mat-menu #menu2="matMenu">
             <button mat-menu-item [routerLink]="['sounds']">Stream playsounds</button>
             <a href="/dadmap/" mat-menu-item>Dark and Darker maps</a>
         </mat-menu>
 
-        <button mat-button>Profil</button>
+        <button class="top-bar-button" mat-button>Profil</button>
 
     </div>
 </div>
