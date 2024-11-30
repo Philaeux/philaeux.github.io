@@ -7,17 +7,16 @@ import { CommonModule } from '@angular/common';
 import CHEAT_SHEETS from "./cheat-sheets.json"
 
 @Component({
-  selector: 'app-root',
-  standalone: true,
-  imports: [
-    RouterLink,
-    RouterOutlet,
-    MatMenuModule,
-    MatButtonModule,
-    CommonModule
-  ],
-  templateUrl: './app.component.html',
-  styleUrl: './app.component.scss'
+    selector: 'app-root',
+    imports: [
+        RouterLink,
+        RouterOutlet,
+        MatMenuModule,
+        MatButtonModule,
+        CommonModule
+    ],
+    templateUrl: './app.component.html',
+    styleUrl: './app.component.scss'
 })
 export class AppComponent {
 
