@@ -12,7 +12,8 @@ body {
     color: #c9d1d9;
 }
 
-@include mat.core();
+@include mat.elevation-classes();
+@include mat.app-background();
 
 $theme: mat.define-theme((color: (theme-type: dark,
                 primary: mat.$cyan-palette,
