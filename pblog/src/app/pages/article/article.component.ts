@@ -1,17 +1,15 @@
 import { Component } from '@angular/core';
-import { ActivatedRoute, RouterLink } from '@angular/router';
+import { ActivatedRoute } from '@angular/router';
 import { MarkdownModule } from 'ngx-markdown';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
-  selector: 'app-article',
-  standalone: true,
-  imports: [
-    RouterLink,
-    MarkdownModule
-  ],
-  templateUrl: './article.component.html',
-  styleUrl: './article.component.scss'
+    selector: 'app-article',
+    imports: [
+        MarkdownModule
+    ],
+    templateUrl: './article.component.html',
+    styleUrl: './article.component.scss'
 })
 export class ArticleComponent {
 
